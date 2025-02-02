@@ -87,5 +87,5 @@ _touche **ESPACE**_ : permet de sauter.
 | Noms                         |                Adresses Mails |
 | :-----------------------     |      -----------------------: |
 |**Luna COLOMBAN-FERNANDEZ**   |luna.colombanfernandez@ynov.com|
-|**Erika LAJUS**               |erika.lajus@ynov.com           |
+|**Erika LAJUS**               |erika.erika.lajus@ynov.com           |
 |**Karl DAVAL-LECLERCQ**       |karl.davalleclercq@ynov.com    |
