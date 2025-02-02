@@ -55,10 +55,31 @@
 - Caméra
 - Mouvement
 
-## II - Fonctionnement
+<<<<<<< HEAD
+## II Fonctionnement
+**Première installation**
+1. cloner le repo   
+dans votre invite de commande coller :  
+`git clone https://github.com/Luna30cf/Hyper-Pulse.git`    
+2. lancer le fichier : " "
 
+**Principe du jeu**  
+
+Le joueur contrôle une forme forme octogonale qui avance automatiquement vers la droite. Il doit éviter les obstacles (triangles) en sautant au bon moment en appuyant sur une touche du clavier déjà définie. 
+Si le joueur entre en collision avec   un obstacle cest GAME OVER .
+
+**Commandes**  
+_touche **ESPACE**_ : permet de sauter.
 
 ## III - Répartition
+**Karl**    
+**Luna**
+- Readme  
+-   
+**Erika**
+- Créations des préfabs de base (sans le design défini)    
+- Base mécanique du jeu (scripts de base des préfabs suivant le principe du jeu)    
+- Readme (partie fonctionnement)    
 
 
 ## IV - Crédits
@@ -66,5 +87,6 @@
 | Noms                         |                Adresses Mails |
 | :-----------------------     |      -----------------------: |
 |**Luna COLOMBAN-FERNANDEZ**   |luna.colombanfernandez@ynov.com|
-|**Erika LAJUS**               |erika.lajus@ynov.com           |
+|**Erika LAJUS**               |
+erika.lajus@ynov.com           |
 |**Karl DAVAL-LECLERCQ**       |karl.davalleclercq@ynov.com    |
