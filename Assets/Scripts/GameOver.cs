@@ -1,14 +1,14 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameOver : MonoBehaviour
 {
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Obstacle"))
+        if (collision.CompareTag("Obstacle")) // Vérifie si l'objet touché a le tag "Obstacle"
         {
-            Debug.Log("Game Over!");
-            // stop le jeu
-            Time.timeScale = 0;
+            Debug.Log("Game Over! Redirection vers la scène GameOver.");
+            SceneManager.LoadScene("GameOver"); // Charge la scène GameOver
         }
     }
 }
