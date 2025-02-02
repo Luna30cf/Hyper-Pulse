@@ -10,7 +10,7 @@ public class ObstacleMover : MonoBehaviour
         transform.position += Vector3.left * speed * Time.deltaTime;
 
         // Détruire l'obstacle hors de l'écran
-        if (transform.position.x < -10f) // Ajustez la valeur selon la largeur de votre scène
+        if (transform.position.x < -40f) // Ajustez la valeur selon la largeur de votre scène
         {
             Destroy(gameObject);
         }

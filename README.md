@@ -4,7 +4,7 @@
 ## Sommaire
 
 - [I - Jeu](#i---jeu)
-- [II - Fonctionnement](#ii-fonctionnement)
+- [II - Fonctionnement](#ii---fonctionnement)
 - [III - Répartition](#iii---répartition)
 - [IV - Crédits](#iv---crédits)
 
@@ -55,6 +55,7 @@
 - Caméra
 - Mouvement
 
+<<<<<<< HEAD
 ## II Fonctionnement
 **Première installation**
 1. cloner le repo   
@@ -69,7 +70,6 @@ Si le joueur entre en collision avec   un obstacle cest GAME OVER .
 
 **Commandes**  
 _touche **ESPACE**_ : permet de sauter.
-
 
 ## III - Répartition
 **Karl**    
