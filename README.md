@@ -80,8 +80,10 @@ _touche **ESPACE**_ : permet de sauter.
 ## III - Répartition
 
 **Karl** 
-- Partie graphique
+- Partie graphique (obstacles, sol, fond, boutons...)
 - Jump du joueur
+- Page de game over
+- Base de la gestion des collisions
 
 **Luna**
 - Readme
@@ -100,6 +102,5 @@ _touche **ESPACE**_ : permet de sauter.
 | Noms                         |                Adresses Mails |
 | :-----------------------     |      -----------------------: |
 |**Luna COLOMBAN-FERNANDEZ**   |luna.colombanfernandez@ynov.com|
-|**Erika LAJUS**               |
-erika.lajus@ynov.com           |
+|**Erika LAJUS**               |erika.lajus@ynov.com           |
 |**Karl DAVAL-LECLERCQ**       |karl.davalleclercq@ynov.com    |
