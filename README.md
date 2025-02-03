@@ -80,8 +80,10 @@ _touche **ESPACE**_ : permet de sauter.
 ## III - Répartition
 
 **Karl** 
-- Partie graphique
+- Partie graphique (obstacles, sol, fond, boutons...)
 - Jump du joueur
+- Page de game over
+- Base de la gestion des collisions
 
 **Luna**
 - Readme
