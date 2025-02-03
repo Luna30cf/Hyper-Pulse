@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 49f6374a02270c84886d08c01b67643a
+guid: 26503190159c7b243aebb0ae85ee0603
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8274981904857413979
-    second: Union (2)_0
+      213: 4160635012330822537
+    second: obstacle_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Union (2)_0
+      name: obstacle_0
       rect:
         serializedVersion: 2
         x: 2
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b59bfc12334a6d270800000000000000
-      internalID: 8274981904857413979
+      spriteID: 98b180eef7b8db930800000000000000
+      internalID: 4160635012330822537
       vertices: []
       indices: 
       edges: []

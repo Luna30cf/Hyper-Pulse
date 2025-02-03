@@ -3,8 +3,10 @@ using UnityEngine.SceneManagement;
 
 public class GameOver : MonoBehaviour
 {
-    private void OnTriggerEnter2D(Collider2D collision)
+    public void OnCollisionEnter2D(Collision2D collision)
     {
+        Debug.Log("Collision avec : " + collision.gameObject.name);
+
         if (collision.gameObject.CompareTag("Obstacle"))
         {
             Debug.Log("Game Over! Redirection vers la scène GameOver.");
