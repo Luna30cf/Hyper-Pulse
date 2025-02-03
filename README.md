@@ -53,7 +53,6 @@
 - Caméra
 - Mouvement
 
-<<<<<<< HEAD
 ## II Fonctionnement
 
 **Première installation**
@@ -67,7 +66,7 @@ Ouvrer le répository dans Unity (version 6000.0.35f1)
 Puis positionnez-vous dans la scène menu et...
     - Lancer le jeu
 
-2. Lancer le fichier : [Hyper-Pulse.exe](Build/Hyper-Pulse.exe)    
+2. Lancer le fichier : [Hyper-Pulse.exe](Hyper-Pulse.exe)    
 
 **Principe du jeu**  
 
@@ -76,6 +75,7 @@ Si le joueur entre en collision avec un obstacle c'est GAME OVER.
 
 **Commandes**  
 _touche **ESPACE**_ : permet de sauter.
+_touche **ECHAP**_ : permet de quitter en milieu de game.
 
 ## III - Répartition
 

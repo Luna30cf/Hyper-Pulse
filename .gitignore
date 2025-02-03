@@ -3,8 +3,10 @@
 [Ll]ogs/
 [Tt]emp/
 [Oo]bj/
-[Bb]uild/
-[Bb]uilds/
+[Bb]uild/D3D12/
+[Bb]uild/Hyper-Pulse_BurstDebugInformation_DoNotShip/
+[Bb]uild/Hyper-Pulse_Data/
+[Bb]uild/MonoBleedingEdge/
 [Pp]rojectSettings/
 [Uu]serSettings/
 .vscode/
