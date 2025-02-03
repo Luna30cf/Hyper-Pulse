@@ -879,7 +879,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 2016347107}
-  offsetX: 8.5
+  offsetX: 7
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -1132,7 +1132,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1538656267}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4c4f8248f04b2654aa24ad48e03551d1, type: 3}
+  m_Script: {fileID: 11500000, guid: e8e667e35bcffb94c95a45bcef354ebc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 315509472}
@@ -1679,7 +1679,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5798060551701985755, guid: f91cc2b7f43699547b7bf6a27b8b7f3a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.5
+      value: -7
       objectReference: {fileID: 0}
     - target: {fileID: 5798060551701985755, guid: f91cc2b7f43699547b7bf6a27b8b7f3a, type: 3}
       propertyPath: m_LocalPosition.y

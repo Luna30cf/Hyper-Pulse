@@ -5,7 +5,6 @@ public class GameOver : MonoBehaviour
 {
     public void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log("Collision avec : " + collision.gameObject.name);
 
         if (collision.gameObject.CompareTag("Obstacle"))
         {

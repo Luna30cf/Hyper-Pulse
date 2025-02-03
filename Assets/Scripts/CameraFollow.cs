@@ -2,14 +2,14 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
-    public Transform player; // Référence au joueur
-    public float offsetX = 8.5f; // Décalage horizontal
+    public Transform player; // Rï¿½fï¿½rence au joueur
+    public float offsetX = 7f; // Dï¿½calage horizontal
 
     void Update()
     {
         if (player != null)
         {
-            // Suivre la position X du joueur avec un décalage
+            // Suivre la position X du joueur avec un dï¿½calage
             transform.position = new Vector3(player.position.x + offsetX, transform.position.y, transform.position.z);
         }
     }

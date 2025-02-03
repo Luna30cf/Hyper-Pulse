@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using TMPro;
 
-public class ScoreManager : MonoBehaviour
+public class GameManager : MonoBehaviour
 {
     public TextMeshProUGUI scoreText; // Référence au texte du score
     private int score = 0;
@@ -22,6 +23,11 @@ public class ScoreManager : MonoBehaviour
             score += 1; // Ajoute 1 au score
             timeElapsed = 0f; // Réinitialiser le compteur
             UpdateScoreUI();
+        }
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Debug.Log("La touche echap a été cliquée !");
+            SceneManager.LoadScene("Menu");
         }
     }
 

@@ -67,7 +67,7 @@ Ouvrer le répository dans Unity (version 6000.0.35f1)
 Puis positionnez-vous dans la scène menu et...
     - Lancer le jeu
 
-2. Lancer le fichier : " "
+2. Lancer le fichier : [Hyper-Pulse.exe](Build/Hyper-Pulse.exe)    
 
 **Principe du jeu**  
 
