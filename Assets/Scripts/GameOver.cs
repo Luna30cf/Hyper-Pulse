@@ -7,7 +7,7 @@ public class GameOver : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Obstacle"))
         {
-            Debug.Log("Game Over! Redirection vers la sc�ne GameOver.");
+            Debug.Log("Game Over! Redirection vers la scène GameOver.");
             SceneManager.LoadScene("GameOver"); // Charge la sc�ne GameOver
         }
     }

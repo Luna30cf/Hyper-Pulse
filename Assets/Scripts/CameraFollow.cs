@@ -3,7 +3,7 @@ using UnityEngine;
 public class CameraFollow : MonoBehaviour
 {
     public Transform player; // Référence au joueur
-    public float offsetX = 2f; // Décalage horizontal
+    public float offsetX = 8.5f; // Décalage horizontal
 
     void Update()
     {

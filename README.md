@@ -40,10 +40,8 @@
     - Appuyer sur le bouton = sauter
 - Détection des collisions :
     - Obstacle touché = Game Over
-- Score : 
-    - Nombres d'obstacles passés ?
-    - Distance parcourue ?
-    - Temps sans mourir ?
+- Score :
+    - Temps sans mourir
 
 ### Interface Utilisateur (UI)
 - Score affiché tout le long de la partie
@@ -57,25 +55,40 @@
 
 <<<<<<< HEAD
 ## II Fonctionnement
+
 **Première installation**
-1. cloner le repo   
-dans votre invite de commande coller :  
-`git clone https://github.com/Luna30cf/Hyper-Pulse.git`    
-2. lancer le fichier : " "
+
+1. Cloner le repo
+
+Dans votre invite de commande, Coller :  
+`git clone https://github.com/Luna30cf/Hyper-Pulse.git`
+
+Ouvrer le répository dans Unity (version 6000.0.35f1)
+Puis positionnez-vous dans la scène menu et...
+    - Lancer le jeu
+
+2. Lancer le fichier : " "
 
 **Principe du jeu**  
 
-Le joueur contrôle une forme forme octogonale qui avance automatiquement vers la droite. Il doit éviter les obstacles (triangles) en sautant au bon moment en appuyant sur une touche du clavier déjà définie. 
-Si le joueur entre en collision avec   un obstacle cest GAME OVER .
+Le joueur contrôle une forme hexagonale qui avance automatiquement vers la droite. Il doit éviter les obstacles (triangles) en sautant au bon moment en appuyant sur une touche du clavier déjà définie. 
+Si le joueur entre en collision avec un obstacle c'est GAME OVER.
 
 **Commandes**  
 _touche **ESPACE**_ : permet de sauter.
 
 ## III - Répartition
-**Karl**    
+
+**Karl** 
+- Partie graphique
+- Jump du joueur
+
 **Luna**
-- Readme  
--   
+- Readme
+- Changement de scènes
+- Reprise de la base et mise en cohérence
+- Correction des erreurs et problèmes avec git et unity (d'où le retard de rendu, désolée)
+
 **Erika**
 - Créations des préfabs de base (sans le design défini)    
 - Base mécanique du jeu (scripts de base des préfabs suivant le principe du jeu)    
