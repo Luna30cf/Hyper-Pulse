@@ -66,7 +66,7 @@ Ouvrer le répository dans Unity (version 6000.0.35f1)
 Puis positionnez-vous dans la scène menu et...
     - Lancer le jeu
 
-2. Télécharger : [Dossier .zip](Build.zip)
+2. Télécharger : [Dossier .zip](Build.zip)   
    Exécuter `Hyper-Pulse.exe`
 
 **Principe du jeu**  
@@ -75,7 +75,7 @@ Le joueur contrôle une forme hexagonale qui avance automatiquement vers la droi
 Si le joueur entre en collision avec un obstacle c'est GAME OVER.
 
 **Commandes**  
-_touche **ESPACE**_ : permet de sauter.
+_touche **ESPACE**_ : permet de sauter.    
 _touche **ECHAP**_ : permet de quitter en milieu de game.
 
 ## III - Répartition
